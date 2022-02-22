@@ -20,7 +20,7 @@ int n=s.length();
        
    }
  
-   if(count==7 || count==4 )
+   if(count==7|| count==4 )
    {
        cout<<"YES";
    }
