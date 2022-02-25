@@ -4,9 +4,8 @@
 using namespace std;
   
 int main()
-
 {
-   long long n , k;
+   int n , k;
 cin  >> n >> k;
 if(n%2==0){
 	if(k>n/2)
