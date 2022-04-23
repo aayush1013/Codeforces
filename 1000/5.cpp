@@ -15,7 +15,7 @@ int main()
     ll u=a*b*c;
     ll t=a+b+c;
     
-    vector<int> v = { w,  x, y, z, u,t };
+    vector<ll> v = { w,  x, y, z, u,t };
     cout<<*max_element(v.begin(), v.end());
 	 
 return 0;
